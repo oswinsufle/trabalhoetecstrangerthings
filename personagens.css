@@ -1,0 +1,25 @@
+#total{
+    background-color:black;
+    box-sizing: border-box;
+}
+.container{
+    width: 60%;
+    background-color:black;
+    margin: auto;
+    text-align: justify;
+}
+
+
+#joyse{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    
+}
+#hopper{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+#mike{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
